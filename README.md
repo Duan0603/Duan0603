@@ -55,18 +55,18 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 <p align="center">
   <a href="https://github.com/Duan0603/spotify_clone" title="🎵 Spotify Clone – TypeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=spotify_clone&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/Duan0603/spotify_clone.svg?fullname=&link_target=_blank&theme=dark" alt="spotify_clone" />
   </a>
   <a href="https://github.com/Duan0603/portfolio_20" title="🌐 Portfolio – JavaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=portfolio_20&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/Duan0603/portfolio_20.svg?fullname=&link_target=_blank&theme=dark" alt="portfolio_20" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe – 11 commits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=hoccungtonhe&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe">
+    <img src="https://gh-card.dev/repos/Duan0603/hoccungtonhe.svg?fullname=&link_target=_blank&theme=dark" alt="hoccungtonhe" />
   </a>
-  <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2 – The v2 of Fitnexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chipkiet&repo=FitnexusV2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2">
+    <img src="https://gh-card.dev/repos/chipkiet/FitnexusV2.svg?fullname=&link_target=_blank&theme=dark" alt="FitnexusV2" />
   </a>
 </p>
 
