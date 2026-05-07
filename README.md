@@ -1,4 +1,4 @@
-# <p align="center">✨ Welcome to my Working Space ✨</p>
+# <p align="center">✨ Welcome to my Professional Space ✨</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hoàng%20Đức%20Duẫn&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -120,4 +120,16 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ### 📫 Connect With Me
 
-<p
+<p align="center">
+  <a href="mailto:hoangduan06032005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Hoàng Đức Duẫn</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
