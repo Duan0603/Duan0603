@@ -19,7 +19,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 - 🔭 I’m currently working on **EduVN** (Fullstack Project)
 - 🌱 I’m currently learning **Advanced AI Development & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, .NET, or Node.js**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **hoangduan06032005@gmail.com**
 - ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad."*
 
 ---
@@ -64,10 +64,9 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 <p align="center">
   <a href="mailto:hoangduan06032005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/github/followers/Duan0603?label=Follow&style=social" />
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by Hoàng Đức Duẫn</b>
+  <b>Hoàng Đức Duẫn</b>
 </p>
 
