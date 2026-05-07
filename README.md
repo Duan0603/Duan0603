@@ -53,6 +53,8 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ### 🗂️ Featured Projects
 
+### 🗂️ Featured Projects
+
 <table align="center">
   <tr>
     <td>
@@ -67,10 +69,14 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe">
-        <img src="https://gh-card.dev/repos/Duan0603/hoccungtonhe.svg?fullname=&link_target=_blank&theme=dark_dimmed" alt="hoccungtonhe" width="300" />
-      </a>
+    <td align="center" width="300">
+      <br/>
+      <img src="https://img.shields.io/badge/Duan0603%2Fhoccungtonhe-%F0%9F%94%92%20Private-1a1b27?style=flat-square&logo=github&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🚀_Startup_Project-6e40c9?style=for-the-badge" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/><br/>
     </td>
     <td>
       <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2">
@@ -79,7 +85,6 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 GitHub Trophies
