@@ -53,22 +53,32 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ### 🗂️ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Duan0603/spotify_clone" title="🎵 Spotify Clone – TypeScript">
-    <img src="https://gh-card.dev/repos/Duan0603/spotify_clone.svg?fullname=&link_target=_blank&theme=dark" alt="spotify_clone" />
-  </a>
-  <a href="https://github.com/Duan0603/portfolio_20" title="🌐 Portfolio – JavaScript">
-    <img src="https://gh-card.dev/repos/Duan0603/portfolio_20.svg?fullname=&link_target=_blank&theme=dark" alt="portfolio_20" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe">
-    <img src="https://gh-card.dev/repos/Duan0603/hoccungtonhe.svg?fullname=&link_target=_blank&theme=dark" alt="hoccungtonhe" />
-  </a>
-  <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2">
-    <img src="https://gh-card.dev/repos/chipkiet/FitnexusV2.svg?fullname=&link_target=_blank&theme=dark" alt="FitnexusV2" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Duan0603/spotify_clone" title="🎵 Spotify Clone – TypeScript">
+        <img src="https://gh-card.dev/repos/Duan0603/spotify_clone.svg?fullname=&link_target=_blank&theme=dark_dimmed" alt="spotify_clone" width="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Duan0603/portfolio_20" title="🌐 Portfolio – JavaScript">
+        <img src="https://gh-card.dev/repos/Duan0603/portfolio_20.svg?fullname=&link_target=_blank&theme=dark_dimmed" alt="portfolio_20" width="300" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe">
+        <img src="https://gh-card.dev/repos/Duan0603/hoccungtonhe.svg?fullname=&link_target=_blank&theme=dark_dimmed" alt="hoccungtonhe" width="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2">
+        <img src="https://gh-card.dev/repos/chipkiet/FitnexusV2.svg?fullname=&link_target=_blank&theme=dark_dimmed" alt="FitnexusV2" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
