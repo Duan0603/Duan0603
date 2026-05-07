@@ -1,4 +1,4 @@
-# <p align="center">✨ Welcome to my Professional Space ✨</p>
+# <p align="center">✨ Welcome to my Working Space ✨</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hoàng%20Đức%20Duẫn&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -10,14 +10,18 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duan0603&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
 I am a **Fullstack Developer** with a passion for building modern, high-performance web applications. My journey is driven by curiosity and a commitment to creating clean, efficient code that solves real-world problems.
 
-- 🔭 I’m currently working on **EduVN** (Fullstack Project)
-- 🌱 I’m currently learning **Advanced AI Development & Cloud Architecture**
+- 🔭 I'm currently working on **EduVN** (Fullstack Project)
+- 🌱 I'm currently learning **Advanced AI Development & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, .NET, or Node.js**
 - 📫 Reach me at: **hoangduan06032005@gmail.com**
 - ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad."*
@@ -47,15 +51,32 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Duan0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duan0603&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duan0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duan0603&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duan0603&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duan0603&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -63,10 +84,15 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:hoangduan06032005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hoangduan06032005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <b>Hoàng Đức Duẫn</b>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
