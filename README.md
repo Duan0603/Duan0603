@@ -50,12 +50,12 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duan0603&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duan0603&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duan0603&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duan0603&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
