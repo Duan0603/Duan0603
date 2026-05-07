@@ -51,6 +51,27 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ---
 
+### 🗂️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Duan0603/spotify_clone" title="🎵 Spotify Clone – TypeScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=spotify_clone&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Duan0603/portfolio_20" title="🌐 Portfolio – JavaScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=portfolio_20&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Duan0603/hoccungtonhe" title="📚 Học Cùng Tôi Nhe – 11 commits">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duan0603&repo=hoccungtonhe&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/chipkiet/FitnexusV2" title="💪 FitnexusV2 – The v2 of Fitnexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chipkiet&repo=FitnexusV2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -89,18 +110,14 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Duan0603/Duan0603/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:hoangduan06032005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Hoàng Đức Duẫn</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+<p
