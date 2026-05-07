@@ -80,7 +80,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
       <img src="https://img.shields.io/badge/E--Learning_Platform-30363d?style=flat-square&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       &nbsp;
-      <img src="https://img.shields.io/badge/DotNet-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/DotNet-6e40c9?style=flat-square&logo=dotnet&logoColor=white" />
       &nbsp;
       <img src="https://img.shields.io/badge/🔒_Private-e74c3c?style=flat-square" />
       &nbsp;
