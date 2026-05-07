@@ -62,13 +62,19 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duan0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
+  <a href="https://github.com/Duan0603" title="⭐ Stars earned | 🔀 Total commits | 🔃 Pull Requests | 🐛 Issues opened | 🤝 Contributions">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Duan0603&theme=tokyonight" alt="GitHub Stats" height="180" />
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duan0603&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" height="180" />
+  <a href="https://github.com/Duan0603" title="🗂️ Language breakdown across all repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duan0603&theme=tokyonight" alt="Top Languages" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Duan0603" title="🔥 229 Total Contributions (Jan 22, 2024 → Present) | ⚡ Current Streak: 1 day | 🏆 Longest Streak: 3 days (Oct 31 – Nov 2, 2025)">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -76,7 +82,9 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duan0603&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/Duan0603" title="📅 Daily commit activity over the last 30 days">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duan0603&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  </a>
 </p>
 
 ---
