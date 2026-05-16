@@ -24,7 +24,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 - 🌱 I'm currently learning **Advanced AI Development & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, .NET, or Node.js**
 - 📫 Reach me at: **hoangduan06032005@gmail.com**
-- ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad."*
+- ⚡ Fun fact: _"Code is like humor. When you have to explain it, it's bad."_
 
 ---
 
@@ -138,11 +138,12 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 ---
 
-### 🐍 Contribution Snake
+### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Duan0603/Duan0603/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
+
 
 ---
 
