@@ -103,7 +103,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Duan0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Duan0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
