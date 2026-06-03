@@ -103,7 +103,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duan0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Duan0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ I am a **Fullstack Developer** with a passion for building modern, high-performa
 
 <p align="center">
   <a href="https://github.com/Duan0603" title="🔥 229 Total Contributions (Jan 22, 2024 → Present) | ⚡ Current Streak: 1 day | 🏆 Longest Streak: 3 days (Oct 31 – Nov 2, 2025)">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duan0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Duan0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
